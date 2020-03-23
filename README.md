@@ -6,7 +6,8 @@ Once my server is running the application service, you can access the web APP.
 <br>
 This app uses **RESTful** routes, which means as follows
 <br>
-<table border=1 align=center margin:auto>
+<div align=center>
+<table border=1 margin:auto>
   <tr>
     <td>operation</td>
     <td>url</td>
@@ -56,3 +57,4 @@ This app uses **RESTful** routes, which means as follows
     <td>delete a specific campground with id</td>
   </tr>         
 </table>
+</div>
