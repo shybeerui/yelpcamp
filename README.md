@@ -10,7 +10,7 @@ This app uses **RESTful** routes, which means as follows
 <html>
   <head>
     <style>
-      table: {margin:auto}
+      table {margin:auto}
     </style>
   </head>
   <body>
