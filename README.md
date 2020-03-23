@@ -1,11 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <style type="text/css">
-      table {margin:auto}
-    </style>
-  </head>
-  <body>
 The main stuff is on a goormIDE server.
 <br>
 The url is <a href="https://wdb-hhsoj.run-us-west2.goorm.io">here</a>.
@@ -15,12 +7,15 @@ Once my server is running the application service, you can access the web APP.
 This app uses **RESTful** routes, which means as follows
 <br>
 <table border="1" align="center">
+ <thead> 
   <tr>
     <td>operation</td>
     <td>url</td>
     <td>type</td>
     <td>description</td>
   </tr>             
+ </thead>
+ <tbody>
   <tr>
     <td>index</td>
     <td>/campgrounds or /</td>
@@ -63,6 +58,5 @@ This app uses **RESTful** routes, which means as follows
     <td>DELETE</td>
     <td>delete a specific campground with id</td>
   </tr>         
+ </tbody>
 </table>
-      </body>
-    </html>
