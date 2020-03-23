@@ -6,7 +6,10 @@ Once my server is running the application service, you can access the web APP.
 <br>
 This app uses **RESTful** routes, which means as follows
 <br>
-<table border="1" align="center" margin:auto>
+<style>
+  table: {margin:auto}
+</style>
+<table border="1" align="center">
   <tr>
     <td>operation</td>
     <td>url</td>
